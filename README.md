@@ -7,5 +7,6 @@ PDFKit est une bibliothèque de génération de documents PDF pour Node et le na
 Le CVE-2022-25765 est une vulnérabilité de sécurité liée à l’injection de commande dans le package pdfkit version 0.0.0. La vulnérabilité est due à une mauvaise désinfection de l’URL.
 # Réalisation de l'exploit
 créez un conteneur l'image puis lancer le coteneur
+docker run -it nom_image
 
 
